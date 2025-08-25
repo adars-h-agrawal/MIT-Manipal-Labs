@@ -1,0 +1,1 @@
+printf("%d ", root->data);
