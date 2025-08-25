@@ -1,0 +1,11 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled files (optional, useful for labs)
+*.out
+*.class
+*.exe
+
