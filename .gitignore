@@ -1,0 +1,18 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled binaries (C, C++)
+*.out
+*.o
+*.exe
+
+# Ignore Java class files
+*.class
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
