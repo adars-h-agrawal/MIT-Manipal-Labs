@@ -1,0 +1,9 @@
+# Detect all common programming languages used in labs
+*.py linguist-detectable=true
+*.java linguist-detectable=true
+*.cpp linguist-detectable=true
+*.c linguist-detectable=true
+*.cs linguist-detectable=true
+*.sql linguist-detectable=true
+*.s linguist-detectable=true   # Assembly
+*.h linguist-detectable=true   # C/C++ headers
