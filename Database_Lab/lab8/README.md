@@ -1,4 +1,4 @@
-# Lab 8 – VC# Front-End for Oracle Database (Insurance)
+# Lab 8 – C# Front-End for Oracle Database (Insurance)
 
 This C# console application connects a Visual Studio frontend to an Oracle backend using ODP.NET, executing queries from Lab 3 and Lab 4.
 
